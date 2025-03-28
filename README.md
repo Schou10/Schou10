@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1>Hi 👋, I'm a Full-stack Software Engineer</h1>
 <p>A passionate frontend developer from Orange City, IA</p>
 <h2>🚀 Languages and Tools I Use</h2>
