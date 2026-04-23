@@ -8,8 +8,8 @@
 <hr />
 
 ### 🛠️ Languages and Tools
-<table>
-  <tr>
+<table align="center" style="border:none">
+  <tr style="border:none">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" /></td>
