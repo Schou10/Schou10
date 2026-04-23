@@ -18,7 +18,6 @@
     <td><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a></td>
     <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a></td>
     <td><a href="https://mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a></td>
-    <td><a href="https://google.com" target="_blank"><img src="https://vectorlogo.zone" alt="gcp" width="42" height="42" /></a></td>
     <td><a href="https://adobe.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" alt="illustrator" width="42" height="42" /></a></td>
     <td><a href="https://photoshop.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="42" height="42" /></a></td>
     <td><a href="https://figma.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="42" height="42" /></a></td>
