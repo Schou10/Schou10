@@ -8,16 +8,20 @@
 <hr />
 
 ### 🛠️ Languages and Tools
-<table align="center" style="border:none">
-  <tr style="border:none">
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" /></td>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="https://mozilla.org" target="_blank"><img src="https://githubusercontent.com" alt="javascript" width="42" height="42" /></a></td>
+    <td><a href="https://python.org" target="_blank"><img src="https://githubusercontent.com" alt="python" width="42" height="42" /></a></td>
+    <td><a href="https://reactjs.org" target="_blank"><img src="https://githubusercontent.com" alt="react" width="42" height="42" /></a></td>
+    <td><a href="https://w3.org" target="_blank"><img src="https://githubusercontent.com" alt="html5" width="42" height="42" /></a></td>
+    <td><a href="https://w3schools.com" target="_blank"><img src="https://githubusercontent.com" alt="css3" width="42" height="42" /></a></td>
+    <td><a href="https://expressjs.com" target="_blank"><img src="https://githubusercontent.com" alt="express" width="42" height="42" /></a></td>
+    <td><a href="https://nodejs.org" target="_blank"><img src="https://githubusercontent.com" alt="nodejs" width="42" height="42" /></a></td>
+    <td><a href="https://mongodb.com" target="_blank"><img src="https://githubusercontent.com" alt="mongodb" width="42" height="42" /></a></td>
+    <td><a href="https://google.com" target="_blank"><img src="https://vectorlogo.zone" alt="gcp" width="42" height="42" /></a></td>
+    <td><a href="https://adobe.com" target="_blank"><img src="https://vectorlogo.zone" alt="illustrator" width="42" height="42" /></a></td>
+    <td><a href="https://photoshop.com" target="_blank"><img src="https://githubusercontent.com" alt="photoshop" width="42" height="42" /></a></td>
+    <td><a href="https://figma.com" target="_blank"><img src="https://vectorlogo.zone" alt="figma" width="42" height="42" /></a></td>
   </tr>
 </table>
 
