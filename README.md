@@ -13,7 +13,7 @@
 </p>
 
 ### 📈 GitHub Stats
-<div align="center">
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schou10&show_icons=true&locale=en" alt="Schou10" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Schou10&" alt="Schou10" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Schou10&show_icons=true&locale=en&layout=compact" alt="Schou10" />
