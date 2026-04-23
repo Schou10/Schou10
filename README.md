@@ -13,5 +13,11 @@
 </p>
 
 ### 📈 GitHub Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Schou10&show_icons=true&locale=en" alt="Schou10" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Schou10&" alt="Schou10" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Schou10&show_icons=true&locale=en&layout=compact" alt="Schou10" /></p> <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Schou10" alt="Schou10" /></a></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schou10&show_icons=true&locale=en" alt="Schou10" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Schou10&" alt="Schou10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Schou10&show_icons=true&locale=en&layout=compact" alt="Schou10" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Schou10" alt="Schou10" />
+  </a>
+</div>
