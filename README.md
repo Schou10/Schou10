@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Software Engineer & Passionate Frontend Developer</h3>
 
 <p align="center">
-<a href="https://linkedin.com" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Schou10&" alt="Schou10" /></a><a href="https://instagram.com_" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Schou10&show_icons=true&locale=en" alt="Schou10" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/andrew-schouten-18a888252/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a> <a target="_blank" href="https://www.instagram.com/Schouty29_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
 
 <hr />
@@ -14,5 +14,4 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://vercel.app" alt="stats" height="150" /><img src="https://vercel.app" alt="languages" height="150" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Schou10&show_icons=true&locale=en" alt="Schou10" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Schou10&" alt="Schou10" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Schou10&show_icons=true&locale=en&layout=compact" alt="Schou10" /></p> <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Schou10" alt="Schou10" /></a></p>
